@@ -56,8 +56,8 @@ You can either build and run the application using Maven or directly through you
 ## Using Maven:
 bash
 Copy code
- mvn clean install
- mvn spring-boot:run
+: mvn clean install
+ : mvn spring-boot:run
 
 
 ## Using IntelliJ IDEA:** 
@@ -113,7 +113,7 @@ To deploy the application for production, follow these steps:
 ## 1. Build the Application
 bash
 Copy code
-mvn clean install
+: mvn clean install
 
 ### License ***
 This project is licensed under the MIT License - see the LICENSE file for details.
