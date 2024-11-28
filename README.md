@@ -9,13 +9,13 @@ Key features include user registration, login, role-based access control, and th
 This project is perfect for organizations looking to implement a secure system for managing users and access rights based on predefined roles (e.g., Admin, User).
 
 ## Technologies Used **
-  Java 17: The main programming language used for backend logic.
- Spring Boot: Framework used to simplify application development and create production-ready applications.
- PostgreSQL: Open-source relational database used to store user, role, and permission data.
- JWT (JSON Web Token): Used for secure token-based user authentication, ensuring stateless communication.
- Maven: A build automation tool used to manage project dependencies and build the application.
- Spring Security: For securing endpoints and ensuring proper authentication and authorization.
- Lombok: To reduce boilerplate code (e.g., getters, setters, constructors).
+ 1.Java 17: The main programming language used for backend logic.
+ 2.Spring Boot: Framework used to simplify application development and create production-ready applications.
+ 3.PostgreSQL: Open-source relational database used to store user, role, and permission data.
+ 4.JWT (JSON Web Token): Used for secure token-based user authentication, ensuring stateless communication.
+ 5.Maven: A build automation tool used to manage project dependencies and build the application.
+ 6. Security: For securing endpoints and ensuring proper authentication and authorization.
+ 7.Lombok: To reduce boilerplate code (e.g., getters, setters, constructors).
 
 ### Features** 
  Secure User Authentication: JWT authentication ensures that users are securely logged in without storing session data.
